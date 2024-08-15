@@ -1,4 +1,4 @@
-﻿
-#Heroes Project
-##Console application
-*.NET 8 *
+﻿# Heroes Project
+
+## Console application
+- .NET 8
