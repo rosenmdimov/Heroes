@@ -1,0 +1,14 @@
+C:\Users\r_dimov\projects\CSharp\Heroes\Heroes\Heroes\bin\Debug\net8.0\Heroes.exe
+C:\Users\r_dimov\projects\CSharp\Heroes\Heroes\Heroes\bin\Debug\net8.0\Heroes.deps.json
+C:\Users\r_dimov\projects\CSharp\Heroes\Heroes\Heroes\bin\Debug\net8.0\Heroes.runtimeconfig.json
+C:\Users\r_dimov\projects\CSharp\Heroes\Heroes\Heroes\bin\Debug\net8.0\Heroes.dll
+C:\Users\r_dimov\projects\CSharp\Heroes\Heroes\Heroes\bin\Debug\net8.0\Heroes.pdb
+C:\Users\r_dimov\projects\CSharp\Heroes\Heroes\Heroes\obj\Debug\net8.0\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r_dimov\projects\CSharp\Heroes\Heroes\Heroes\obj\Debug\net8.0\Heroes.AssemblyInfoInputs.cache
+C:\Users\r_dimov\projects\CSharp\Heroes\Heroes\Heroes\obj\Debug\net8.0\Heroes.AssemblyInfo.cs
+C:\Users\r_dimov\projects\CSharp\Heroes\Heroes\Heroes\obj\Debug\net8.0\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\r_dimov\projects\CSharp\Heroes\Heroes\Heroes\obj\Debug\net8.0\Heroes.dll
+C:\Users\r_dimov\projects\CSharp\Heroes\Heroes\Heroes\obj\Debug\net8.0\refint\Heroes.dll
+C:\Users\r_dimov\projects\CSharp\Heroes\Heroes\Heroes\obj\Debug\net8.0\Heroes.pdb
+C:\Users\r_dimov\projects\CSharp\Heroes\Heroes\Heroes\obj\Debug\net8.0\Heroes.genruntimeconfig.cache
+C:\Users\r_dimov\projects\CSharp\Heroes\Heroes\Heroes\obj\Debug\net8.0\ref\Heroes.dll
